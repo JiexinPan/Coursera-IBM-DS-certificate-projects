@@ -1,2 +1,2 @@
-# ds-tools-assignment
+# Coursera IBM DS certification
 coursera assignments
